@@ -1,0 +1,13 @@
+ls
+cd
+clear
+
+clea
+clear
+
+cd
+..q
+..
+cd..
+exit
+
